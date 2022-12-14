@@ -1,0 +1,6 @@
+name: Homes
+version: 1.0.0
+main: com.github.merelysnow.homes.HomesPlugin
+depend:
+  - helper
+  - Factions
